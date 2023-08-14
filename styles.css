@@ -3,7 +3,7 @@
 body {
 	width: 100%;
 	max-width: 800px;
-	margin: 0 auto;
+	margin: 8px;
 	background-color: #c6c6c6;
 	font-size: 62.5%;
     color: rgb(0, 0, 0);
@@ -24,6 +24,10 @@ h1 {
     text-align: center;
     padding: 0px;
     color: blue;
+}
+
+#mainHeading {
+    color: red;
 }
 
 h2 {
@@ -54,6 +58,10 @@ nav ul li {
 	display: inline-block;
 	margin-right: 1em;
 	font-size: 0.75em;
+}
+
+.funParagraph {
+    color: green;
 }
 
 p {
